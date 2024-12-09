@@ -2,8 +2,8 @@
 
 ----
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&weight=50&size=60&pause=1000&color=F70715&width=900&height=100&lines=It's+Ahad-Bug-Bot;with+Ultra+High+Features+Loaded;Developed+by%3A+Ahad+Mehmood)
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&weight=50&size=60&pause=1000&color=F70715&width=900&height=100&lines=It's+Ahad-Bug-Bot;with+Ultra+High+Features+Loaded;Developed+by%3A+Ahad+Mehmood)]
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
