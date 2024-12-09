@@ -7,7 +7,7 @@
 ----
 
 ### Deploy
-<a href="https://bot-hosting.net/"> <img src="https://bot-hosting.net/assets/img/bothosting2.png" width=100px> </a>
+<a href="https://bot-hosting.net/"> <img src="https://bot-hosting.net/assets/img/bothosting2.png" width=100px border=2px,2px,2px,2px> </a>
 
 ----
 
