@@ -24,6 +24,7 @@
 9. Enter number it will show pair code
 10. Enter pair code in linked device in whatsapp
 11. Bot Connect done now use bot 
+```
 
 ----
 
